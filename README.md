@@ -1,4 +1,4 @@
-android_interfaces
+Android Interfaces Sample program
 ==================
 
-Calling functions using Interface
+Sample project for the Android Interfaces. 
